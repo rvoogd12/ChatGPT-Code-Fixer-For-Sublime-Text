@@ -2,8 +2,10 @@
 
 # How To Use
 
-1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
-2. Search for `ChatGPT: Fix Code` and select it.
+1. Select any code
+2. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
+3. Search for `ChatGPT: Fix Code` and select it.
+4. ChatGPT will now analyze Your selection
 #### Note: You need your own OpenAI API Key
 
 # Installation
