@@ -4,7 +4,7 @@
 
 1. Open the Command Palette (`Ctrl+Shift+P` or `Cmd+Shift+P` on macOS).
 2. Search for `ChatGPT: Fix Code` and select it.
-####Note: You need your own OpenAI API Key
+#### Note: You need your own OpenAI API Key
 
 # Installation
 
