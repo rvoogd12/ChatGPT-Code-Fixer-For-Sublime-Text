@@ -10,6 +10,8 @@
 
 # Installation
 
+# Note: Don't attempt to install now. It isn't available yet(But will be in no time)
+
 ### Via Package Control
 
 1. Install [Package Control](https://packagecontrol.io/installation) if you haven't already.
