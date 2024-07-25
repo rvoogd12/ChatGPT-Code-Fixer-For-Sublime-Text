@@ -1,0 +1,6 @@
+[
+    {
+        "caption": "ChatGPT: Fix Code",
+        "command": "chatgpt_code_fixer"
+    }
+]

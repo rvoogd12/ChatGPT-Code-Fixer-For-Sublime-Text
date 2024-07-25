@@ -1,0 +1,16 @@
+{
+    "schema_version": "3.0.0",
+    "packages": [
+      {
+        "name": "ChatGPT Code Fixer",
+        "details": "https://github.com/rvoogd12/ChatGPT-Code-Fixer-For-Sublime-Text",
+        "releases": [
+          {
+            "sublime_text": "*",
+            "tags": true
+          }
+        ]
+      }
+    ]
+  }
+  
