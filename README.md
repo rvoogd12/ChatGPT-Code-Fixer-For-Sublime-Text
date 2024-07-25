@@ -10,8 +10,8 @@
 
 # Installation
 
-## Note: Don't attempt to install it now.
-## It isn't available yet(But will be in no time)
+## It isn't available yet.
+## Still under development
 
 ### Via Package Control
 
